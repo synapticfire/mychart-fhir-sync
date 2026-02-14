@@ -1,0 +1,17 @@
+{
+  "name": "mychart-sync",
+  "version": "0.1.0",
+  "description": "Epic MyChart FHIR sync to Snowflake",
+  "main": "sync.js",
+  "scripts": {
+    "sync": "node sync.js",
+    "sync:initial": "node sync.js --initial",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.0"
+  },
+  "author": "Tommy-AI",
+  "license": "MIT"
+}

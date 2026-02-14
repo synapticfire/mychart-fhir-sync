@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Epic tokens
+epic-tokens.json
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
