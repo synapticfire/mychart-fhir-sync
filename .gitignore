@@ -4,6 +4,12 @@
 # Epic tokens
 epic-tokens.json
 
+# Snowflake keys (NEVER commit these!)
+snowflake_key.p8
+snowflake_key.pub
+*.p8
+*.pem
+
 # Node modules
 node_modules/
 
